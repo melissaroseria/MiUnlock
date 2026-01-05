@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/melissaroseria/MiUnlock/refs/heads/main/assets/775.png" alt="MiUnlock Banner" width="90"/>
+  <img src="https://raw.githubusercontent.com/melissaroseria/MiUnlock/refs/heads/main/assets/775.png" alt="MiUnlock Banner" width="80"/>
 </p>
 
 # 🔓 RegionLoader
@@ -21,6 +21,7 @@ Her akşam 19.00 da manual olarak denediğimiz ama asla sıra alamadığımız i
 ### TOKEN ÇEKMEK 💝
 ```
 JavaScript BOSSFİGHT
+[ OPSİYONEL ] ZORUNLU DEĞİL
 ```
 • Bu Yöntemde Kodu Adres Çubuğuna Yapıştırınca `javascript:` Kısmı otomatik silinir.  
 • Elle Tekrar Yazmanız Gerekir, Yoksa Sahne Başlamaz 🎬
